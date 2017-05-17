@@ -1,4 +1,4 @@
-#带进度条的ajax文件上传 JS AJAX File Upload with Progress
+# 带进度条的ajax文件上传 JS AJAX File Upload with Progress
 原文链接:[http://codular.com/javascript-ajax-file-upload-with-progress](http://codular.com/javascript-ajax-file-upload-with-progress)
 
 现在,人们喜欢在浏览网页时做一些其他事情而不离开该网页,这通常是通过ajax来实现.大多数情况,人们使用jQuery来实现,但是随着浏览器的进步,人们比不需要这么做.这里我们将介绍如何在不离开页面的情况下将文件上传到服务器，我们将使用与我们[之前的文章](http://codular.com/php-file-uploads)中使用的相同的后端PHP代码.

@@ -1,4 +1,4 @@
-#React Native 中的样式管理 Managing Styles in React Native
+# React Native 中的样式管理 Managing Styles in React Native
 
 原文链接:[https://medium.com/@tommylackemann/managing-styles-in-react-native-3546d3482d73](https://medium.com/@tommylackemann/managing-styles-in-react-native-3546d3482d73)
 
