@@ -1,6 +1,6 @@
 * * *
 
-#### Redux Best Practices (Redux最佳实践)
+# Redux Best Practices (Redux最佳实践)
 
 原文链接:[https://medium.com/@kylpo/redux-best-practices-eef55a20cc72](https://medium.com/@kylpo/redux-best-practices-eef55a20cc72)
 
