@@ -1,4 +1,4 @@
-# How I went from zero to San Francisco software engineer in 12 months
+# How I went from zero to San Francisco software engineer in 12 months(如何在12个月内从零基础成为一个在旧金山工作的软件工程师)
 
 原文链接:[https://medium.freecodecamp.com/how-i-learned-to-code-and-earned-a-job-in-silicon-valley-changing-my-life-along-the-way-a3af854855fa](https://medium.freecodecamp.com/how-i-learned-to-code-and-earned-a-job-in-silicon-valley-changing-my-life-along-the-way-a3af854855fa)
 
@@ -8,17 +8,17 @@
 
 现在知识已经变得容易获取了.若想在某一领域有竞争力你需要的仅仅是投入足够的时间.在软件行业尤其如此.
 
-### In 2016, my life was falling apart
+### 2016年,我重要转变的一年
 
-When I started learning to code in 2016, I guess you could say my life was falling apart.
+当我在2016年开始学习编程,我想我的生活正在发生重要转变.
 
-我去大学读了医学专业,取得了生物化学和人类学学位.但是我很快发现我对科学和医学没有多少兴趣,并在还没想好该怎么走的情况下离开了大学.
+我去大学读了医学专业,取得了生物化学和人类学学位.但是我很快发现我对科学和医学没有多少兴趣,并在还没想好接下来该怎么走的情况下离开了大学.
 
 我在一家攀岩俱乐部中工作了两年,但是情况并不太好.我知道是时候来一次大的改变了.
 
 我已经有很长一段时间没有学习编程了,但我知道这就是我真正想做的.终于,在我2016年的生日那天,准备去学习编程,并决定义无反顾的学下去.
 
-刚开始时,对于近些年出现的各式各样的编程培训机构我还不是太熟悉.幸运的是,我很快发现了[freeCodeCamp](https://www.freecodecamp.com/).当得知完成课程需要为非营利组织编写代码后我立刻加入了他们,而且若要参加一个bootcamp你也需要完成一个freeC是odeCamp的开源课程.
+刚开始时,对于近些年出现的各式各样的编程培训机构我还不是太熟悉.幸运的是,我很快发现了[freeCodeCamp](https://www.freecodecamp.com/).当得知完成课程需要为非营利组织编写代码后我立刻加入了他们,而且若要参加一个bootcamp你也需要完成一个freecodecamp的开源课程.
 
 freeCodeCamp很快成为我主要的学习方法.当然还有其他一些辅助方式,例如播客,教程,开源课件,还有文档.当有疑惑时还有Stack Overflow.
 
@@ -76,9 +76,9 @@ freeCodeCamp很快成为我主要的学习方法.当然还有其他一些辅助�
 
 到达加州.
 
-回到旧金山,我立刻开始准备再次找工作.我决定加入[Outco](https://outco.io/#),这是一个帮助软件工程师准备面试的课程.我一直非常反对在学习编程时花钱(部分原因是我没有钱),但是我还是选择加入Outco因为我觉得他们是为特定用户提供的服务.Outco专门针对软件工程师的面试过程,这个过程经常给许多甚至有经验和熟练的工程师造成困扰.
+回到旧金山,我立刻开始准备再次找工作.我决定加入[Outco](https://outco.io/#),这是一个帮助软件工程师准备面试的课程.我一直非常反对在学习编程时花钱(部分原因是我没有钱),但是我还是选择加入Outco因为我觉得他们是为特定用户提供的服务.Outco专门针对软件工程师的面试过程,因为这个过程经常给许多甚至有经验和熟练的工程师造成困扰.
 
-虽然我现在可以很好地写JavaScript代码,但我绝对不会在白板上解决任何算法问题.这正是Outco为学生做的一个特别的准备,因为不论好坏,白板仍然是科技公司最受欢迎的面试工具.此外,我还可以将Outco的账单延期到找到工作为止.
+虽然我现在可以很好地写JavaScript代码,但我绝对不会在白板上解决任何算法问题.这正是Outco为学生做的一个特别的准备,因为不论好坏,白板仍然是科技公司最受欢迎的面试工具.此外,我还可以将Outco的账单延期到找到工作之后.
 
 同时,事实是: 我已经坚持了很多个月保持每周花超过50小时的时间来学习编程,但仍不能确保完全凭自己本事在美国最富裕,最有竞争力的城市之一找到工作.
 
@@ -114,36 +114,35 @@ freeCodeCamp很快成为我主要的学习方法.当然还有其他一些辅助�
 
 * 成功率: 0.52%
 
+拿到的offer来自于[TruSTAR Technology](https://www.trustar.co/),我很高兴加入他们的团队!TruSTAR正在建立一个平台,将允许其他公司分享网络智能数据用来防止和减少网络威胁.
 
-That one offer was from [TruSTAR Technology](https://www.trustar.co/), and I have been so happy to join their team! TruSTAR is building a platform that allows companies to share cyberintelligence data in order to prevent and mitigate cyberattacks.
-
-I’m working on the frontend side of their application and putting to use the JavaScript skills I gained through freeCodeCamp. The experience has been incredible so far, and I have been honestly surprised by how well prepared I have been to begin making meaningful contributions to their codebase.
+我在他们项目组中担任前端开发工作并且使用上了我在freeCodeCamp上学到的JavaScript的知识.这段经历是难以置信的,我已经有能力对他们的代码库做出有意义的贡献了,对此我真的觉得惊讶.
 
 ![](http://p0.qhimg.com/t017cfd489f297ea03a.png)
 
-### Lessons I learned over the past 12 months
+### 过去12个月我学到的经验教训
 
-Now, finally, here is some advice I would have for anyone looking to do something like this:
+最后,对于任何打算和我做同样事情的人这里有一些建议:
 
-*   You need real-world skills and you have to learn a lot. That means a lot of hours of work, there’s no way around it. Passion helps.
+* 你需要的是实际工作中的技能必须学习很多.没有捷径,你必须花许多时间.足够的热情将会对你有帮助.
 
-*   Building projects is an excellent way to learn, and once you know enough it is not very hard to find open-source projects or other high impact projects to work on.
+* 参与一个实际项目是一个很好的学习方式,一旦你有了足够的了解,你将会很容易找到一些开源项目或其他有影响力的的项目.
 
-*   JavaScript and React are great to learn and in high demand! But learn what interests you.
+* JavaScript和React的学习将对你有较高要求!但同时学习它将激发你的编码兴趣.
 
-*   It’s critical that you cultivate a community of others who are learning to code or working as engineers. Network in your city. Network online. Find collaborative projects to work on. Ask for help.
+* 参加一个有其他正在学习或已经工作的工程师组建的交流社区是很有帮助的.不管是在你的城市,还是在线上的网络中.寻找一些合作项目.或者寻求帮助.
 
-*   If you can afford it, try to have some patience. This is what I struggled with the most.
+* 如果你能做到,试着尽可能更有耐心些.这对于我相当困难.
 
-There you have it — the journey that led me across the US to begin a career as a software engineer! I’m sure everyone’s path will look different, that’s part of the fun.
+这段旅程是有意义的--这段跨越美国的行程让我开始了软件工程师的职业生涯!我确信每个人的路都会有所不同,这也是乐趣的一部分.
 
-Find your own path and don’t be afraid to disregard other people’s views if you believe strongly enough in your own. That includes my views.
+坚信自己选择的道路,如果你相信自己足够强大,完全可以考虑忽视别人的观点.当然也包括我的.
 
-The opportunities in the tech industry are real, and if you want them badly enough, you can find a way there.
+确实在计算机行业有很多机会,只要你有能力,你就可以找到一条出路.
 
-As an engineer, your job will be to solve problems, and if you are self-taught, the first problem you must solve is how do you teach yourself?
+作为一个工程师,你的工作是解决问题,如果你是自学的,你遇到的第一个问题将是如何教你自己?
 
-Cheers everyone, and happy coding!
+祝大家编码愉快!
 
-P.S. A huge shoutout and thank you to the entire freeCodeCamp community and everyone I mentioned in this article (and a few others: Archie, Christian, Beemer Girl and all my friends from home). You have all proven invaluable in helping me accomplish this goal.
+P.S. 由衷的感谢freeCodeCamp社区和文中提及的每个人(还有其他一些: Archie, Christian, Beemer Girl 和所有我家里朋友).你们给予我的帮助是无价的.
                 
